@@ -27,7 +27,7 @@ sidebar:
     telegram: # add your nickname without '@' sign
     gitlab:
     bitbucket:
-    twitter: ''
+    twitter: 
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
@@ -151,22 +151,16 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
-        level: 98%
+      - name: PACS
+        level: 100%
 
-      - name: Javascript & jQuery
-        level: 98%
+      - name: DICOM
+        level: 100%
 
-      - name: Angular
-        level: 98%
+      - name: HL7
+        level: 60%
 
-      - name: HTML5 & CSS
-        level: 95%
-
-      - name: Ruby on Rails
-        level: 85%
-
-      - name: Sketch & Photoshop
+      - name: Webdevelopment (HTML5, CSS, JS/JQuery & PHP)
         level: 60%
 
 # footer: >
