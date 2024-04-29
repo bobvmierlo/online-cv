@@ -20,7 +20,7 @@ sidebar:
     phone: +31613369179
     timezone: Europe/Amsterdam
     citizenship: Nederlands
-    website: bobvmierlo.nl #do not add http://
+    # website: bobvmierlo.nl #do not add http://
     linkedin: bobvmierlo
     xing: 
     github: bobvmierlo
@@ -81,12 +81,13 @@ experiences:
     title: Werk ervaring
     info:
       - role: Functioneel applicatiebeheerder ziekenhuisbreed beeldenbeheer
-        time: Mei 2022 - HEden
+        time: Mei 2022 - Heden
         company: Elkerliek ziekenhuis
         details: |
           Functioneel applicatiebeheerder ziekenhuisbreed beeldenbeheer
           - Sectra PACS/JiveX/FORUM
-          - HiX (o.a. CS-ROntqen/CS-Functie)
+          - HiX (o.a. CS-Röntqen/CS-Functie)
+          - Comez/Cloverleaf
           - XDS (Philips Forcare)
           - Twiin
           Neventaken: decentraal beheer HL7 koppelingen
